@@ -15,7 +15,10 @@ struct AppLearning: App {
 //            StateExample()
 //            StateObjectExample()
 //            ObservedObjectExample()
-            EnvironmentObjectExample()
+//            EnvironmentObjectExample()
+            VStackExample()
+//            HStackExample()
+//            ZStackExample()
         }
     }
 }
