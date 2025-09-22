@@ -24,7 +24,7 @@ struct VStackExample: View {
         .background(.blue)
         .padding()
         .background(.red)
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottom)
         .background(.thinMaterial, in: RoundedRectangle(cornerRadius: 12))
     }
 }
